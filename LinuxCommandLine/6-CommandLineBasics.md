@@ -117,10 +117,10 @@ Use `ls` to print out all files in your directory , then `cat` file2.
 Now use `mkdir` to make a new folder named folder1. We'll save this for
 later.
 
-Now let's learn how to delete file1.
+Now let's learn how to permanently delete file1.
 
 ``` default
-$ rm file1
+$ rm file1.txt
 ```
 
 Use `ls -l` and voila! file1 is gone! (you should also see folder1 now)
